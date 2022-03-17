@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @thisisaman01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
 <div id="header" align="center">
@@ -29,10 +24,16 @@
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/71985799/158726018-0b1feb2e-ef28-4584-b358-a4df49237a37.png" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/71985799/158726018-0b1feb2e-ef28-4584-b358-a4df49237a37.png" width="400" height="300"/>
 </div>
 
-<!---
-thisisaman01/thisisaman01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<div align="center">
+  
+  - 👋 Hi, I’m @thisisaman01
+  - 🌱 I’m currently learning Web development
+  - 👀 I’m interested in Front-end development  
+  - 💞️ I’m looking to contribute on open source
+  - 📫 How to reach me :amanka989307@gmail.com
+
