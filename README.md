@@ -1,39 +1,35 @@
+<!-- Replace the image URLs and contact email with your own information -->
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/71985799/266797996-7368f33b-d819-4518-93a8-770ad0de71b6.png" width="200" height="150"/>
 </div>
 
 
-
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/aman-k-a-303561183/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  </a>
   <a href="https://twitter.com/AmanKA13">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, I'm Aman! 👋
 </h1>
 
+<p align="center">
+  🌱 I’m currently exploring iOS Development<br>
+  👀 I’m passionate about Mobile App development<br>
+  💞️ I’m eager to contribute to open source<br>
+  📫 Reach me at: <a href="mailto:amanka989307@gmail.com">amanka989307@gmail.com</a>
+</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/71985799/158726018-0b1feb2e-ef28-4584-b358-a4df49237a37.png" width="300" height="300"/>
+  <img src="https://user-images.githubusercontent.com/71985799/266797862-d728696d-df38-4f69-8658-a54910c4cc5d.png" width="300" height="300"/>
+
+
 </div>
 
-
-
-<div align="center">
-  
-  - 👋 Hi, I’m @thisisaman01
-  - 🌱 I’m currently learning Web development
-  - 👀 I’m interested in Front-end development  
-  - 💞️ I’m looking to contribute on open source
-  - 📫 How to reach me :amanka989307@gmail.com
-
+<!-- Add any additional elements or effects you like to make your profile unique -->
