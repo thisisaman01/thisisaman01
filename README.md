@@ -27,8 +27,8 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/71985799/266797862-d728696d-df38-4f69-8658-a54910c4cc5d.png" width="300" height="300"/>
-
+<!--   <img src="https://user-images.githubusercontent.com/71985799/266797862-d728696d-df38-4f69-8658-a54910c4cc5d.png" width="300" height="300"/>
+ -->
 
 </div>
 
